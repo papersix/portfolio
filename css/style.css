@@ -1,0 +1,25 @@
+.box {
+
+  width:100px;
+  height:100px;
+  background-color: #ccc;
+  display:block;
+  border: 1px solid black;
+
+}
+
+img {
+  width:600px;
+}
+
+.centered {
+
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+}
+
+.align-right {
+  text-align: right;
+}
+
