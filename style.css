@@ -1,26 +1,67 @@
 * {
     font-family: Source Code Pro;
 }
+
+header {
+  margin-left: 10%;
+  /*text-align: center;*/
+}
 section {
   width:auto;
-  height:400px;
-
-  padding:50px;
+ /* padding:50px;*/
+  margin: 50px;
 }
 h1 {
-  font-size:10em;
+  font-size:20vh;
 
 }
-p {
-  line-height: 2em;
+#about p {
+  font-size: 1.2em;
+  font-family: Source Code Pro;
+  line-height: 1.5em;
+  margin-right:40%;
 }
 
 .gitfloat {
-
   float: right;
   position: relative;
+  display:inline-block;
 }
 
 div {
   padding:30px;
+}
+
+img {
+  margin:10px;
+/*  position: relative;*/
+  display: inline-block;
+}
+
+
+#portfolio div {
+  width:40%;
+  display:inline-block;
+
+  float: left;
+}
+
+#portfolio h1 {
+  color:#ededed;
+}
+
+sup {
+  float:right;
+}
+
+
+
+p {
+
+  font-family: Verdana;
+  font-size: 9pt;
+  line-height: 18pt;
+  margin: 14pt 0;
+  color: #616161;
+
 }
