@@ -2,7 +2,10 @@
 
 * {
     font-family: Source Code Pro;
+    text-decoration: none;
 }
+
+
 
 header {
   margin-left: 10%;
@@ -48,7 +51,7 @@ img {
   float: left;
 }
 
-#portfolio h1 {
+section h1 {
   color:#ededed;
 }
 
@@ -65,5 +68,10 @@ p {
   line-height: 18pt;
   margin: 14pt 0;
   color: #616161;
+}
 
+#email {
+
+  text-align: center;
+  color:#616161;
 }
